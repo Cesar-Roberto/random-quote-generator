@@ -1,0 +1,61 @@
+body {
+    background-color: #00aced;
+    font-family: sans-serif;
+}
+
+h1 {
+    color: white;
+    margin-top: 2rem;
+    text-align: center;
+}
+
+p {
+    margin-top: 0;
+    margin-bottom: 0.5rem;
+}
+
+a:visited, a:active, a:focus {
+    color: inherit;
+}
+
+a {
+    text-decoration: none;
+}
+
+.quote {
+    width: 50%;
+    margin: 0 auto;
+    background-color: white;
+    padding: 1rem;
+    border-radius: 4px;
+    color: #00aced;
+}
+
+.quote-content {
+    text-align: center;
+    font-size: 2rem;
+}
+
+.quote-author {
+    text-align: right;
+    font-style: italic;
+    font-size: 1rem;
+}
+
+.quote-buttons {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 0.5rem;
+}
+
+.quote-buttons a, 
+.quote-buttons button {
+    border: 1px solid #00aced;
+    background-color: #00aced;
+    border-radius: 4px;
+    color: white;
+    text-transform: uppercase;
+    font-weight: bold;
+    padding: 0.5rem;
+    font-size: 1rem;
+}
