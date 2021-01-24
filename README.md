@@ -14,6 +14,11 @@ npm install
 npm run watch
 ```
 
+## Website
+
+* If you want to see the app running and want to post some quotes to your Twitter just click the link!
+* https://random-quote-generator-clojure-script.netlify.app/
+
 ## License
 
 Copyright © 2017 FIXME
